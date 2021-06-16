@@ -1,0 +1,20 @@
+{
+  "name": "spinner-kit",
+  "version": "1.0.0",
+  "description": "css only spinner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreset/spinner-kit.git"
+  },
+  "keywords": ["spinner", "css only", "react"],
+  "author": "samadhi laksahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coreset/spinner-kit/issues"
+  },
+  "homepage": "https://github.com/coreset/spinner-kit#readme"
+}
